@@ -8,8 +8,10 @@ Aby zainicjować swoje skiny wystarczy, że będziesz postępował zgodnie z pon
 2. Utwórz folder w katalogu "MrucznikSkins", bądź "MrucznikObjects" - zależnie od tego co chcesz dodać.
 3. Swój folder nazwij zgodnie z panującym powyżej formatem
 4. Zamieść w folderze plik .dff i .txd, a także dodaj plik .png w celu łatwiejszej weryfikacji.
-5.1 Opcjonalnie możesz w swoim folderze umieścić plik (taki jak ten), "README.md" - w nim zamieszczając autora i krótki opis.
-5.2 Jeżeli skin/obiekt pochodzi z zewnętrznego serwera (nie jesteś jego autorem) musisz wstawić link do profilu autora.
+5. Oczekuj na akceptacje zarządcy 
+
+- Opcjonalnie możesz w swoim folderze umieścić plik (taki jak ten), "README.md" - w nim zamieszczając autora i krótki opis.
+- Jeżeli skin/obiekt pochodzi z zewnętrznego serwera (nie jesteś jego autorem) musisz wstawić link do profilu autora.
 
 ## Autorzy
 
