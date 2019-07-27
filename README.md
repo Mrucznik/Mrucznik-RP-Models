@@ -1,25 +1,25 @@
 # MrucznikResources
-Zasoby serwera Mrucznik Role Play. Na powy¿szym repozytorium znajduj¹ siê wszelkie skiny, obiekty i tekstury u¿ywane na serwerze
+Zasoby serwera Mrucznik Role Play. Na powyÅ¼szym repozytorium znajdujÄ… siÄ™ wszelkie skiny, obiekty i tekstury uÅ¼ywane na serwerze
 Mrucznik Role Play. 
 
-## Chcia³bym dodaæ swoje obiekty/skiny
-Aby zainicjowaæ swoje skiny wystarczy, ¿e bêdziesz postêpowa³ zgodnie z poni¿szymi krokami: 
-1. Utwórz swój branch 
-2. Utwórz folder w katalogu "MrucznikSkins", b¹dŸ "MrucznikObjects" - zale¿nie od tego co chcesz dodaæ.
-3. Swój folder nazwij zgodnie z panuj¹cym powy¿ej formatem
-4. Zamieœæ w folderze plik .dff i .txd, a tak¿e dodaj plik .png w celu ³atwiejszej weryfikacji.
-5.1* Opcjonalnie mo¿esz w swoim folderze umieœciæ plik (taki jak ten), "README.md" - w nim zamieszczaj¹c autora i krótki opis.
-5.2* Je¿eli skin/obiekt pochodzi z zewnêtrznego serwera (nie jesteœ jego autorem) musisz wstawiæ link do profilu autora.
+## ChciaÅ‚bym dodaÄ‡ swoje obiekty/skiny
+Aby zainicjowaÄ‡ swoje skiny wystarczy, Å¼e bÄ™dziesz postÄ™powaÅ‚ zgodnie z poniÅ¼szymi krokami: 
+1. UtwÃ³rz swÃ³j branch 
+2. UtwÃ³rz folder w katalogu "MrucznikSkins", bÄ…dÅº "MrucznikObjects" - zaleÅ¼nie od tego co chcesz dodaÄ‡.
+3. SwÃ³j folder nazwij zgodnie z panujÄ…cym powyÅ¼ej formatem
+4. ZamieÅ›Ä‡ w folderze plik .dff i .txd, a takÅ¼e dodaj plik .png w celu Å‚atwiejszej weryfikacji.
+5.1 Opcjonalnie moÅ¼esz w swoim folderze umieÅ›ciÄ‡ plik (taki jak ten), "README.md" - w nim zamieszczajÄ…c autora i krÃ³tki opis.
+5.2 JeÅ¼eli skin/obiekt pochodzi z zewnÄ™trznego serwera (nie jesteÅ› jego autorem) musisz wstawiÄ‡ link do profilu autora.
 
 ## Autorzy
 
 ### Skins
-ID: 400 - mrN
-ID: 401 - mrN
-ID: 402 - mrN
+>ID: 400 - mrN
+>ID: 401 - mrN
+>ID: 402 - mrN
 
 ### Objects
-ID 000 - Def
+>ID 000 - Def
 
 
 
