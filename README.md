@@ -14,12 +14,12 @@ Aby zainicjować swoje skiny wystarczy, że będziesz postępował zgodnie z pon
 ## Autorzy
 
 ### Skins
->ID: 400 - mrN
->ID: 401 - mrN
->ID: 402 - mrN
+- ID: 400 - mrN
+- ID: 401 - mrN
+- ID: 402 - mrN
 
 ### Objects
->ID 000 - Def
+- ID 000 - Def
 
 
 
